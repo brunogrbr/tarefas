@@ -44,3 +44,4 @@ public class Triangulo extends Poligono {
 		return 3*base;
 	}
 }
+

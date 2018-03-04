@@ -23,4 +23,5 @@ public class Cubo extends Quadrado implements Volume {
 		return base*altura*prof;
 	}
 
+	
 }

@@ -12,4 +12,5 @@ public class Piramide extends Triangulo implements Volume {
 		return (((perimetro()/2)*(base/2))*altura)/3;
 	}
 
+	
 }

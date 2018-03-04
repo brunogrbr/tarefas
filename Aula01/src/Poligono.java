@@ -31,3 +31,4 @@ public void setBase(double base) {
 		return 0;
 	}
 }
+

@@ -46,3 +46,4 @@ public class Retangulo extends Poligono implements Diagonal {
 		return (2*base)+(2*altura);
 	}
 }
+

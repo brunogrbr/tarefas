@@ -24,4 +24,5 @@ public class Circulo extends Figura {
 	double perimetro() {
 		return 2*pi*raio;
 	}
+	
 }

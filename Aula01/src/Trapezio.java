@@ -40,3 +40,4 @@ public class Trapezio extends Figura {
 		return ((baseM+basem)*altura)/2;
 	}
 }
+

@@ -41,4 +41,5 @@ public class Losango extends Poligono {
 	double perimetro() {
 		return (2*base)+(2*altura);
 	}
+	
 }

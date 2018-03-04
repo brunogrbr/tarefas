@@ -13,7 +13,6 @@ public class Cilindro extends Circulo implements Volume {
 	public void setAltura(double altura) {
 		this.altura = altura;
 	}
-
 	@Override
 	public double volume() {
 		return pi*altura*Math.pow(raio, 3);
